@@ -20,3 +20,6 @@ final submission, best private LB:0.31478
 com_util.py
 
 from https://github.com/plantsgo/Rental-Listing-Inquiries
+
+Attention:
+ipython rendering may be slow. Try reloading and be patient :)

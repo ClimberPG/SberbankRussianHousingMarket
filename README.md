@@ -1,25 +1,27 @@
 # SberbankRussianHousingMarket
+
+## Introduction
 A Kaggle competetion predicting house price.
 
 https://www.kaggle.com/c/sberbank-russian-housing-market/kernels
 
-naive XGB
+## Naive XGB
 
 my basic model using XGBoost, most feature engineering ideas trying from this kernel.
 
-stacking
+## Stacking Models
 
-using simple stacking model, idea from
+using simple stacking models, idea from
 
 https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/
 
-voting
+## Voting Script
 
 final submission, best private LB:0.31478
 
-com_util.py
+## com_util.py
 
 from https://github.com/plantsgo/Rental-Listing-Inquiries
 
-Attention:
+### Attention:
 ipython rendering may be slow. Try reloading and be patient :)
